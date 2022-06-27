@@ -1,4 +1,4 @@
-- 👋 Hi, This is @Selvigtech Repo
+- 👋 Hi, This is @Selvigtech
 - 👀 I’m interested in Web & Mobile App development
 - 🌱 I’m currently learning Cloud Computing
 - 💞️ My stack includes Java, Flutter, Kotlin, Javascript, Laravel, NodeJS, Angular, PHP
